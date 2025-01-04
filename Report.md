@@ -1,5 +1,5 @@
 # Rubber Duck Debugging AI Chatbot
-
+  
 ## Table of Contents
 1. Introduction  
 2. Background of Rubber Duck Debugging  
